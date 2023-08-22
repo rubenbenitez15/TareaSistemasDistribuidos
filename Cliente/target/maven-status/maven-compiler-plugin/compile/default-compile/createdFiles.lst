@@ -1,0 +1,3 @@
+py/una/entidad/Persona.class
+py/una/entidad/PersonaJSON.class
+py/una/cliente/udp/UDPClient.class
